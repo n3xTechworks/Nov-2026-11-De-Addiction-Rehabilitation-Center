@@ -1,0 +1,14 @@
+/* programs page styles */
+.compare-wrap { max-width: 100%; }
+.compare-wrap .table { min-width: 760px; }
+.compare-wrap th[scope="row"] { white-space: normal; min-width: 180px; }
+.compare-wrap th[scope="row"] a { color: var(--primary-ink); font-weight: 700; text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.compare-wrap th[scope="row"] a:hover { text-decoration-thickness: 2px; }
+.compare-wrap .nowrap { white-space: nowrap; font-weight: 600; color: var(--ink); }
+.compare-wrap:focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; }
+.admit-num {
+  display: inline-grid; place-items: center; width: 36px; height: 36px; border-radius: 50%;
+  border: 1.5px solid var(--primary); color: var(--primary-ink); font-family: var(--f-head); font-weight: 800;
+}
+.admit-cards .card-title, .admit-cards .card-text { text-wrap: balance; }
+#core .program-row .pr-title a, #specialist .pr-title { text-wrap: balance; }

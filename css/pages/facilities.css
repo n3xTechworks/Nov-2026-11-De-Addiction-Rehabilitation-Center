@@ -1,0 +1,14 @@
+/* facilities: room price row, gallery rhythm */
+.room-card .card-kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; color: var(--muted); font-size: var(--fs-small); }
+.room-card .checklist { margin-top: 0; }
+.room-card .price { margin-top: var(--s2); padding-top: var(--s3); border-top: 1px solid var(--line); font-family: var(--f-head); font-weight: 700; font-size: 1.375rem; color: var(--ink); }
+.room-card .price-from, .room-card .price-note { font-family: var(--f-body); font-weight: 500; font-size: var(--fs-small); color: var(--muted); }
+#accommodation .note { margin-top: var(--s5); }
+.gallery-item a { display: block; width: 100%; height: 100%; }
+.gallery-item a:focus-visible { outline: 3px solid var(--accent); outline-offset: -3px; }
+@media (min-width: 480px) and (max-width: 899.98px) { .gallery-item--last { grid-column: span 2; } }
+
+/* Section photos open full screen in the lightbox */
+.lb-link { display: block; width: 100%; height: 100%; cursor: zoom-in; }
+.lb-link img { width: 100%; height: 100%; object-fit: cover; }
+.lb-link:focus-visible { outline: 3px solid var(--accent, #E3A54A); outline-offset: 3px; }

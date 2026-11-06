@@ -1,0 +1,495 @@
+{
+  "programs": [
+    {
+      "slug": "residential",
+      "kind": "core",
+      "name": "Residential rehabilitation",
+      "short": "Residential",
+      "page": "program-residential.html",
+      "image": "program-residential",
+      "imageAlt": "A calm, sunlit residential room with a made bed and a window onto the garden",
+      "tagline": "Live on our quiet campus for 28 to 90 days, with round-the-clock care and a full daily therapy plan.",
+      "summary": "Time away from daily triggers, in a safe and structured setting. Each resident has a private or twin room, a named counsellor and a plan built around their goals.",
+      "facts": [
+        [
+          "Length",
+          "28 to 90 days"
+        ],
+        [
+          "Setting",
+          "Live-in, 24/7 care"
+        ],
+        [
+          "Cost from",
+          "₹1,45,000 / 28 days"
+        ]
+      ],
+      "priceFrom": 145000,
+      "priceUnit": "for 28 days, all-inclusive",
+      "cost": "Fees include your room, all meals, medical review, individual and group therapy, family sessions and aftercare planning. Many health insurers cover part of residential treatment; our admissions team checks your policy for free and confidentially.",
+      "who": [
+        "People whose drinking or drug use has not improved with outpatient support",
+        "Anyone who needs distance from a home or work setting that keeps them using",
+        "People who have completed detox and want structure while they rebuild routines",
+        "Adults of any age, with or without a co-occurring mental health condition"
+      ],
+      "day": [
+        [
+          "07:00",
+          "Wake, walk and mindfulness",
+          "A gentle start: a garden walk or guided breathing before breakfast."
+        ],
+        [
+          "09:30",
+          "Group therapy",
+          "CBT-based group work on triggers, cravings and thinking patterns."
+        ],
+        [
+          "11:30",
+          "One-to-one counselling",
+          "Time with your named counsellor to work on your personal plan."
+        ],
+        [
+          "14:30",
+          "Skills and creative therapy",
+          "Art, music or DBT skills sessions that build new ways to cope."
+        ],
+        [
+          "17:00",
+          "Yoga, gym or sport",
+          "Movement to rebuild sleep, appetite and energy."
+        ],
+        [
+          "19:30",
+          "Peer meeting and reflection",
+          "An optional 12-step or SMART Recovery meeting, then journaling."
+        ]
+      ],
+      "therapies": [
+        [
+          "Cognitive behavioural therapy (CBT)",
+          "Spot the thoughts and situations that lead to use, and practise new responses."
+        ],
+        [
+          "Dialectical behaviour therapy (DBT) skills",
+          "Tools for strong emotions, distress tolerance and calmer relationships."
+        ],
+        [
+          "Mindfulness and yoga",
+          "Daily practice that lowers stress and helps you ride out cravings."
+        ],
+        [
+          "Family therapy",
+          "Weekly sessions that repair trust and prepare everyone for the return home."
+        ]
+      ],
+      "faqs": [
+        [
+          "Can my family visit?",
+          "Yes. Families visit on Sundays from the second week, and join a family therapy session each week. Calls are possible every evening."
+        ],
+        [
+          "Can I keep my phone?",
+          "Phones are kept safe during the first week so you can settle in, then returned for set hours each day."
+        ],
+        [
+          "Is my stay confidential?",
+          "Completely. We never confirm to anyone that you are a resident without your written consent, and records are kept under Indian mental health law."
+        ],
+        [
+          "What happens when I leave?",
+          "Every resident leaves with an aftercare plan, weekly follow-up sessions for a year and a named contact they can call any time."
+        ]
+      ]
+    },
+    {
+      "slug": "outpatient",
+      "kind": "core",
+      "name": "Outpatient day program",
+      "short": "Outpatient",
+      "page": "program-outpatient.html",
+      "image": "program-outpatient",
+      "imageAlt": "A counsellor welcoming a person to a bright, calm counselling room",
+      "tagline": "Structured therapy three to five days a week, while you keep living at home and working.",
+      "summary": "Intensive support that fits around work, study and family. You attend morning or evening sessions and practise new skills in real life between them.",
+      "facts": [
+        [
+          "Length",
+          "8 to 12 weeks"
+        ],
+        [
+          "Setting",
+          "3 to 5 days a week"
+        ],
+        [
+          "Cost from",
+          "₹38,000 / 8 weeks"
+        ]
+      ],
+      "priceFrom": 38000,
+      "priceUnit": "for 8 weeks",
+      "cost": "Fees cover all group and individual sessions, a psychiatric review, family sessions and relapse-prevention planning. Morning and evening tracks cost the same. Part payment by instalment is welcome.",
+      "who": [
+        "People with a stable home and a supportive person nearby",
+        "Anyone stepping down from residential care or detox",
+        "Working adults and students who cannot take weeks away",
+        "People who want help early, before problems grow"
+      ],
+      "day": [
+        [
+          "08:30",
+          "Check-in",
+          "A short one-to-one check on mood, cravings and the week ahead."
+        ],
+        [
+          "09:00",
+          "Group therapy",
+          "CBT and relapse-prevention work with a small group of peers."
+        ],
+        [
+          "10:30",
+          "Skills workshop",
+          "Practical DBT and mindfulness skills you can use the same day."
+        ],
+        [
+          "11:30",
+          "Counselling or family session",
+          "Weekly individual counselling, with family sessions twice a month."
+        ],
+        [
+          "12:30",
+          "Plan for the week",
+          "Agree one small goal to practise before your next visit."
+        ]
+      ],
+      "therapies": [
+        [
+          "Cognitive behavioural therapy (CBT)",
+          "Practical work on triggers, cravings and high-risk situations."
+        ],
+        [
+          "Motivational interviewing",
+          "Respectful conversations that strengthen your own reasons for change."
+        ],
+        [
+          "Medication-assisted treatment (MAT)",
+          "Where suitable, prescribed medicines that reduce cravings, reviewed by our psychiatrist."
+        ],
+        [
+          "Family sessions",
+          "Help for partners and parents to support recovery without taking control."
+        ]
+      ],
+      "faqs": [
+        [
+          "Are there evening sessions?",
+          "Yes. An evening track runs 18:00 to 21:00 on weekdays for people who work during the day."
+        ],
+        [
+          "Will my employer find out?",
+          "No. We do not contact employers. If you need a medical certificate, it can state a health condition without naming addiction."
+        ],
+        [
+          "What if I relapse during the program?",
+          "A slip is treated as information, not failure. Your counsellor adjusts the plan and, if needed, discusses a short residential stay."
+        ],
+        [
+          "Can I start right away?",
+          "Most people start within a week of their first assessment."
+        ]
+      ]
+    },
+    {
+      "slug": "detox",
+      "kind": "core",
+      "name": "Medically supervised detox",
+      "short": "Detox",
+      "page": "program-detox.html",
+      "image": "program-detox",
+      "imageAlt": "A doctor gently checking a person's blood pressure during a calm consultation",
+      "tagline": "A safe, comfortable withdrawal with doctors and nurses beside you, day and night.",
+      "summary": "Withdrawal from alcohol and some drugs can be dangerous without medical care. Our detox unit keeps you safe, eases symptoms with medication and starts therapy as soon as you feel ready.",
+      "facts": [
+        [
+          "Length",
+          "5 to 10 days"
+        ],
+        [
+          "Setting",
+          "Medical unit, 24/7"
+        ],
+        [
+          "Cost from",
+          "₹42,000 / 7 days"
+        ]
+      ],
+      "priceFrom": 42000,
+      "priceUnit": "for 7 days",
+      "cost": "Fees include doctor and nurse care around the clock, blood tests, medication, a private room and meals. Detox is often covered by health insurance as an inpatient medical admission.",
+      "who": [
+        "People who drink heavily every day or have had shakes, sweats or seizures when stopping",
+        "People dependent on opioids, sedatives or sleeping tablets",
+        "Anyone who has tried to stop alone and found withdrawal too hard",
+        "People preparing to join residential or outpatient therapy"
+      ],
+      "day": [
+        [
+          "Day 1",
+          "Assessment and settling in",
+          "A full medical check, blood tests and a personal medication plan."
+        ],
+        [
+          "Days 2 to 3",
+          "Close monitoring",
+          "Nurses check vital signs every few hours and adjust medicines to keep you comfortable."
+        ],
+        [
+          "Days 4 to 5",
+          "Feeling steadier",
+          "Sleep and appetite return. Gentle counselling and short walks begin."
+        ],
+        [
+          "Days 6 to 10",
+          "Planning the next step",
+          "You meet the therapy team and choose residential, outpatient or aftercare support."
+        ]
+      ],
+      "therapies": [
+        [
+          "Medication-assisted withdrawal",
+          "Evidence-based medicines that prevent complications and ease symptoms."
+        ],
+        [
+          "Nutrition and rest",
+          "Vitamins, fluids and simple, nourishing meals to help the body recover."
+        ],
+        [
+          "Motivational counselling",
+          "Short, supportive conversations as soon as you feel ready."
+        ],
+        [
+          "Family briefing",
+          "A call with your family to explain what to expect and how to help."
+        ]
+      ],
+      "faqs": [
+        [
+          "Is detox painful?",
+          "Our doctors use proven medicines to keep withdrawal as comfortable and safe as possible. Most people say it was far easier than stopping alone."
+        ],
+        [
+          "Is detox enough on its own?",
+          "Detox treats the body. Lasting recovery needs therapy afterwards, which is why every detox includes a plan for the next step."
+        ],
+        [
+          "Can someone stay with me?",
+          "A family member may visit daily. In some cases, a relative can stay for the first night."
+        ],
+        [
+          "Do you treat young adults?",
+          "We admit adults aged 18 and over. For younger people we will refer you to a trusted adolescent service."
+        ]
+      ]
+    },
+    {
+      "slug": "aftercare",
+      "kind": "core",
+      "name": "Aftercare and relapse prevention",
+      "short": "Aftercare",
+      "page": "program-aftercare.html",
+      "image": "program-aftercare",
+      "imageAlt": "Friends walking together along an outdoor path, chatting and smiling",
+      "tagline": "A year of steady support after treatment: weekly groups, check-ins and a counsellor on call.",
+      "summary": "The months after treatment are when support matters most. Aftercare keeps you connected to people who understand, with a clear plan for difficult days.",
+      "facts": [
+        [
+          "Length",
+          "12 months"
+        ],
+        [
+          "Setting",
+          "Weekly, in person or online"
+        ],
+        [
+          "Cost from",
+          "₹4,500 / month"
+        ]
+      ],
+      "priceFrom": 4500,
+      "priceUnit": "per month",
+      "cost": "Aftercare is included free for three months after any residential program. After that, a modest monthly fee covers weekly groups, monthly one-to-one sessions and the 24/7 helpline.",
+      "who": [
+        "Everyone who completes residential, outpatient or detox care with us",
+        "People in recovery elsewhere who want a steady local community",
+        "Anyone who has had a slip and wants to get back on track quickly",
+        "Families who want continued guidance after treatment ends"
+      ],
+      "day": [
+        [
+          "Week 1",
+          "Your return plan",
+          "A session to agree routines, early warning signs and who to call."
+        ],
+        [
+          "Weekly",
+          "Recovery group",
+          "A 90-minute evening group, in person or online, with the same peers."
+        ],
+        [
+          "Monthly",
+          "One-to-one review",
+          "Time with your counsellor to adjust your plan as life changes."
+        ],
+        [
+          "Any time",
+          "24/7 helpline",
+          "A trained counsellor answers whenever cravings or worries feel heavy."
+        ]
+      ],
+      "therapies": [
+        [
+          "Relapse-prevention therapy",
+          "Map high-risk situations and rehearse what you will do instead."
+        ],
+        [
+          "Peer support",
+          "Optional 12-step and SMART Recovery meetings, plus our alumni circle."
+        ],
+        [
+          "Mindfulness-based relapse prevention",
+          "Short daily practices to notice cravings without acting on them."
+        ],
+        [
+          "Life and work coaching",
+          "Help with returning to work, study, money and relationships."
+        ]
+      ],
+      "faqs": [
+        [
+          "Can I join aftercare if I was treated elsewhere?",
+          "Yes. We start with a short assessment and then welcome you into a group that suits you."
+        ],
+        [
+          "Are the groups online?",
+          "Every group has an in-person and an online option, so you can stay connected when travelling."
+        ],
+        [
+          "What if I slip?",
+          "Call the helpline. A slip is common and does not undo your progress. We help you understand it and plan the next steps quickly."
+        ],
+        [
+          "How long should I stay in aftercare?",
+          "We recommend at least a year. Many alumni stay connected far longer as mentors."
+        ]
+      ]
+    },
+    {
+      "slug": "family",
+      "kind": "specialist",
+      "name": "Family therapy and support",
+      "short": "Family therapy",
+      "page": "programs.html#family",
+      "image": "program-family",
+      "imageAlt": "A family sitting close together on a sofa, reconnecting and smiling",
+      "tagline": "Addiction affects the whole family. Recovery can heal it, too.",
+      "summary": "Weekly sessions for partners, parents and adult children, plus a monthly family workshop. Learn how to support recovery, set healthy boundaries and look after yourself.",
+      "facts": [
+        [
+          "Length",
+          "6 to 12 sessions"
+        ],
+        [
+          "Setting",
+          "In person or online"
+        ],
+        [
+          "Cost from",
+          "₹2,500 / session"
+        ]
+      ],
+      "priceFrom": 2500,
+      "priceUnit": "per session"
+    },
+    {
+      "slug": "dual",
+      "kind": "specialist",
+      "name": "Dual diagnosis care",
+      "short": "Dual diagnosis",
+      "page": "programs.html#dual",
+      "image": "program-dual",
+      "imageAlt": "A psychologist listening attentively during a one-to-one consultation",
+      "tagline": "Integrated care when addiction and depression, anxiety or trauma happen together.",
+      "summary": "Our psychiatrists and psychologists treat both conditions at the same time, in one plan, so that one is never left to undo progress in the other.",
+      "facts": [
+        [
+          "Length",
+          "Alongside any program"
+        ],
+        [
+          "Setting",
+          "Psychiatrist-led"
+        ],
+        [
+          "Cost from",
+          "₹3,000 / review"
+        ]
+      ],
+      "priceFrom": 3000,
+      "priceUnit": "per psychiatric review"
+    },
+    {
+      "slug": "digital",
+      "kind": "specialist",
+      "name": "Digital and behavioural addictions",
+      "short": "Digital addiction",
+      "page": "programs.html#digital",
+      "image": "program-digital",
+      "imageAlt": "A person reading a book outdoors with their phone set aside",
+      "tagline": "Help with gaming, gambling, social media and other compulsive behaviours.",
+      "summary": "A structured CBT program that helps you understand the pull of screens, betting or gaming and rebuild the time, sleep and relationships they have taken.",
+      "facts": [
+        [
+          "Length",
+          "10 weeks"
+        ],
+        [
+          "Setting",
+          "Weekly, outpatient"
+        ],
+        [
+          "Cost from",
+          "₹28,000 / 10 weeks"
+        ]
+      ],
+      "priceFrom": 28000,
+      "priceUnit": "for 10 weeks"
+    },
+    {
+      "slug": "alcohol",
+      "kind": "specialist",
+      "name": "Alcohol recovery program",
+      "short": "Alcohol recovery",
+      "page": "programs.html#alcohol",
+      "image": "journey-1",
+      "imageAlt": "A person making a first, private call to a Harborlight counsellor",
+      "tagline": "A focused path from safe detox to lasting change in your relationship with alcohol.",
+      "summary": "It often starts with one private call. We combine medical detox where needed, medication to reduce cravings, CBT and family work, for people who want to stop drinking or cut down safely.",
+      "facts": [
+        [
+          "Length",
+          "4 to 12 weeks"
+        ],
+        [
+          "Setting",
+          "Residential or outpatient"
+        ],
+        [
+          "Cost from",
+          "₹36,000 / 4 weeks"
+        ]
+      ],
+      "priceFrom": 36000,
+      "priceUnit": "for 4 weeks"
+    }
+  ]
+}

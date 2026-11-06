@@ -1,0 +1,10 @@
+/* home-2 page styles */
+.hero-home2 .hero-bg { object-position: 50% 40%; }
+.hero-home2 .hero-content { max-width: 860px; }
+.journey-steps { width: 100%; margin-top: var(--s2); }
+.journey-steps h3 { font-size: 1.0625rem; text-wrap: balance; }
+.journey-steps p { color: var(--muted); font-size: var(--fs-small); }
+#journey .story-media img { object-position: 62% 30%; }
+.day-cards .card-title, .day-cards .card-text { text-wrap: balance; }
+.day-cards .card-kicker > span:last-child { font-variant-numeric: tabular-nums; }
+#family .story-media img { object-position: 50% 45%; }

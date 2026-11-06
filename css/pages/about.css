@@ -1,0 +1,12 @@
+/* about page styles */
+.approach-cards .card-title, .team-cards .card-title, .acc-cards .card-title { text-wrap: balance; }
+.team-cards .card-media img { object-position: 50% 20%; }
+.team-cards .meta { flex-wrap: wrap; }
+.founder-grid .story-media img { object-position: 50% 25%; }
+.founder-quote { border-inline-start: 3px solid var(--accent); padding-inline-start: 22px; }
+.founder-quote p { font-family: var(--f-head); font-weight: 600; font-size: clamp(1.125rem, 1rem + .5vw, 1.375rem); line-height: 1.55; color: var(--ink); letter-spacing: -0.01em; }
+.founder-sign { display: grid; gap: 2px; }
+.founder-sign strong { font-family: var(--f-head); color: var(--ink); }
+.founder-sign span { color: var(--muted); font-size: var(--fs-small); }
+
+.acc-cards .card-text { text-wrap: pretty; }

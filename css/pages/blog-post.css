@@ -1,0 +1,24 @@
+/* blog article: meta line, body + sticky-free aside, author box */
+.post-layout { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--s7); }
+@media (min-width: 1024px) { .post-layout { grid-template-columns: minmax(0, 1fr) 300px; align-items: start; } }
+.post-main { min-width: 0; }
+.post-head { max-width: 70ch; margin-inline: auto; padding-bottom: var(--s5); margin-bottom: var(--s5); border-bottom: 1px solid var(--line); }
+.post-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; color: var(--muted); font-size: var(--fs-small); }
+.post-meta .author { border-top: 0; padding-top: 0; }
+.post-meta-sep { width: 1px; height: 28px; background: var(--line-strong); }
+.post-dek { font-size: var(--fs-lead); color: var(--muted); line-height: 1.6; }
+.post-body blockquote { border-inline-start-color: var(--accent); }
+.post-body .note-small { font-size: var(--fs-small); color: var(--muted); }
+.post-aside { display: grid; gap: var(--s4); }
+.post-panel-title { font-size: 1.0625rem; margin-bottom: var(--s3); }
+.post-toc ol { display: grid; gap: 8px; padding-inline-start: 1.25em; font-size: var(--fs-small); }
+.post-toc li { list-style: decimal; }
+.post-toc a { color: var(--ink); text-decoration: none; }
+.post-toc a:hover { color: var(--primary-ink); text-decoration: underline; }
+.author-box { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: var(--s5); align-items: start; margin-block: var(--s6) var(--section-y); padding: clamp(20px, 3vw, 32px); background: var(--tint); border-radius: var(--r-xl); }
+.author-box-photo { width: 96px; height: 120px; object-fit: cover; border-radius: var(--arch-portrait); }
+.author-box-name { font-size: 1.375rem; }
+.author-box-role { color: var(--accent-ink); font-weight: 600; font-size: var(--fs-small); margin-bottom: 8px; }
+.author-box p { unicode-bidi: plaintext; }
+@media (max-width: 479.98px) { .author-box { grid-template-columns: minmax(0, 1fr); } }
+.related-card .card-kicker { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }

@@ -1,0 +1,70 @@
+---
+nav: programs
+css: program
+js: program
+---
+<!-- Program detail template (page front matter: template: program + program: <slug>). Data: data/programs.json -->
+<section class="section" id="overview" aria-labelledby="ov-title">
+  <div class="container">
+    <div class="story-grid program-overview">
+      <div class="story-body">
+        <p class="eyebrow">Who it is for</p>
+        <h2 id="ov-title">{{who_h}}</h2>
+        <p>{{p.summary}}</p>
+        {{p_who}}
+      </div>
+      {{p_facts}}
+    </div>
+  </div>
+</section>
+
+{{horizon}}
+
+<section class="section" id="day" aria-labelledby="day-title">
+  <div class="container">
+    <header class="intro intro--center"><p class="eyebrow">What a day looks like</p><h2 id="day-title">{{day_h}}</h2><p>{{day_p}}</p></header>
+    {{p_day}}
+  </div>
+</section>
+
+<section class="section section--tint" id="therapies" aria-labelledby="th-title">
+  <div class="container container-narrow">
+    <header class="intro intro--center"><p class="eyebrow">Therapies we use</p><h2 id="th-title">Evidence-based, and built around you</h2><p>Every plan is personal. These are the approaches most people in this program find helpful.</p></header>
+    {{p_therapies}}
+  </div>
+</section>
+
+<section class="section" id="cost-section" aria-labelledby="cost-title">
+  <div class="container">
+    <div class="story-grid program-cost">
+      <div class="airy airy--start">
+        <p class="eyebrow">Length and cost</p>
+        <h2 id="cost-title">Clear fees, no surprises</h2>
+        <p>{{cost_p}}</p>
+      </div>
+      {{p_cost}}
+    </div>
+  </div>
+</section>
+
+{{horizon}}
+
+<section class="section" id="faq" aria-labelledby="faq-title">
+  <div class="container">
+    <header class="intro intro--center"><p class="eyebrow">Questions</p><h2 id="faq-title">Common questions</h2><p>Anything else? Ask us in confidence. There is no obligation.</p></header>
+    {{p_faq}}
+  </div>
+</section>
+
+<section class="section section--sand" id="other" aria-labelledby="other-title">
+  <div class="container container-narrow">
+    <header class="intro intro--center"><p class="eyebrow">Compare</p><h2 id="other-title">Other core programs</h2><p>Many people move between programs as they recover. We support every step.</p></header>
+    {{p_others}}
+  </div>
+</section>
+
+<section class="section section--tight" aria-labelledby="cta-title">
+  <div class="container">
+    <div class="cta-band"><p class="eyebrow">Next step</p><h2 id="cta-title">Talk it through in confidence</h2><p>A free, private conversation with an admissions counsellor about whether this program suits you or your family member.</p><div class="hero-ctas"><a class="btn btn-primary btn-lg" href="contact.html#enquiry">Confidential enquiry</a><a class="btn btn-secondary btn-lg" href="tel:18002704455">Call 1800 270 4455</a></div></div>
+  </div>
+</section>

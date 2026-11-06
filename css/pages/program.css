@@ -1,0 +1,9 @@
+/* program detail pages (template: src/templates/program.html) */
+.program-overview { align-items: start; }
+.program-cost { align-items: center; }
+#facts { align-self: start; }
+#overview .story-body h2, #day h2, #cost-title { text-wrap: balance; }
+#day .timeline h3, #therapies .how-steps h3 { text-wrap: balance; }
+#day .timeline .tl-year { font-variant-numeric: tabular-nums; }
+#cost .price { font-size: clamp(1.5rem, 1.2rem + 1vw, 2rem); color: var(--primary-ink); }
+#other .program-list { margin-top: 0; }
